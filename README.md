@@ -1,3 +1,4 @@
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 <h1 align="center">Hi 👋, I'm Mahmood Nasr</h1>
 <h3 align="center">A passionate Full-Stack developer from Egypt</h3>
 
